@@ -1,0 +1,11 @@
+YOLO:
+  EPOCHS: 50
+  IMAGE_SIZE: 640
+  BATCH_SIZE: -1 
+  WEIGHT_YOLO: "yolov8s.pt"
+  DIR_YAML: "./dataset_MOT17/data.yaml"
+  WEIGHT: "weights/yolov8_mot_det.pt"
+DEEP_SORT:
+  MODEL_PATH: "resources/networks/mars-small128.pb"
+  MAX_COSINE_DISTANCE: 0.7
+  CLASSES: ['object']

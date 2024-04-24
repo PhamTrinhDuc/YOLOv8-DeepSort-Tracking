@@ -1,0 +1,12 @@
+ultralytics
+pandas
+matplotlib
+scikit-learn
+numpy
+opencv-python
+tensorflow
+spacy
+fastapi
+uvicorn
+python-multipart
+MoviePy
