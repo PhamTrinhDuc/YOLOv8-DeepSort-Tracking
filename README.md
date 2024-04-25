@@ -5,7 +5,7 @@ To run this repository you need to do the 2 steps below.
 
   Install the necessary:
   
-    pip install -r requirements
+    pip install -r requirement
 
   Run file app:
   
